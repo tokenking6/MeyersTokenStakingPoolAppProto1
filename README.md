@@ -6,9 +6,9 @@ If it can help you or your project great!
 #LetsGetIt 
 
 -Meyers Token Team
-((therealBrianMeyers <BRIAN MEYERS>: Chief Executive Officer
-AustinTheWise <AUSTIN EGGE>: Chief Operating Officer
-tokenking6 <NICKY DANA>: Chief Development Officer))
+((therealBrianMeyers (BRIAN MEYERS): Chief Executive Officer
+AustinTheWise (AUSTIN EGGE): Chief Operating Officer
+tokenking6 (NICKY DANA): Chief Development Officer))
 
 Launch Notes: Make sure to launch app from /client directory!
 
